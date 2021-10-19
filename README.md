@@ -23,3 +23,4 @@ Launching `rang` launches grim with slurp to pick any spot on your screen and th
 
 ## Credits
 - Inspired by [Manas](https://github.com/Manas140)'s [pluck](https://github.com/Manas140/pluck)
+- Matteo from the Signal Community for a lot of help improving the script
