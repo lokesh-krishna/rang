@@ -21,3 +21,5 @@ Just move `rang.sh` to anywhere on your `$PATH` and launch it by binding it to a
 ## Usage
 Launching `rang` launches grim with slurp to pick any spot on your screen and then prints a fancy notification while also copying the hex code to the clipboard.
 
+## Credits
+- Inspired by [Manas](https://github.com/Manas140)'s [pluck](https://github.com/Manas140/pluck)
