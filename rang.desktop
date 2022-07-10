@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+TryExec=rang.sh
+Exec=rang.sh
+# Icon=Color
+Terminal=false
+Categories=GNOME;GTK;Graphics;
+
+Name=Rang
+GenericName=Wayland Color Picker
+Comment=simple color picker script for wayland
+Actions=New;
+Icon=nl.hjdskes.gcolor3
